@@ -11,7 +11,7 @@ library(caret)
 #install.packages("xtable")
 library(xtable)
 
-# ============================================================================
+# ===========================================================================
 # Load data
 Alzheimer <- read.csv('project data.csv')
 head(Alzheimer)
