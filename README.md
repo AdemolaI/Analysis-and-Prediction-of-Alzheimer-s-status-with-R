@@ -1,2 +1,3 @@
-# Modelling-Experimental-and-Observational-Data-with-R
-Modelling-Experimental-and-Observational-Data-with-R
+# Analysis-and-Prediction-of-Alzheimer's-status-with-R
+
+Modelling-Experimental-and-Observational-Data
