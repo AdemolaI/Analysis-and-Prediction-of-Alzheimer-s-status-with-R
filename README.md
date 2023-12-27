@@ -1,7 +1,7 @@
-# Analysis-and-Prediction-of-Alzheimer's-status-with-R
+# Analysis and Prediction of Alzheimer's Status with R
 
-In this project, a dataset which contains various characteristics of Alzheimer was analysed. 
-The aim is to investigate the relationship between those characteristics and the diagnosis, i.e., Alzheimer (Demented) or not (Nondemented).
+In this project, a dataset which contains various characteristics of Alzheimer's status was analysed. 
+The aim is to investigate the relationship between those characteristics and the diagnosis, i.e., Alzheimer's status (Demented) or not (Nondemented).
 
 ## Major Processes in the project
 
