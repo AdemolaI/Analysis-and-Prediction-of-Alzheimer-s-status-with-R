@@ -8,7 +8,7 @@ The aim is to investigate the relationship between those characteristics and the
 📌 Analysis using descriptive statistics (both graphical and numerical representations) on the
 dataset project data.csv.
 
-📌 Implemented K-means clustering algorithm.
+📌 Implemented a K-means clustering algorithm to group the variables based on similar patterns among them.
 
 📌 Fitted a logistic regression model using the independent variables to predict variable Group.
 
